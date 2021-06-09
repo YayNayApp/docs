@@ -1,0 +1,3 @@
+# YayNay Documentation
+
+enjoy.
